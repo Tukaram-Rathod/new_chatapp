@@ -104,9 +104,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'chatappdb',
-        'USER': 'Admin',
-        'PASSWORD': 'Success$%7890',
-        'HOST': 'dm1m3igyc421dy3.c3wvqvdw6sa7.us-east-2.rds.amazonaws.com',
+        'USER': 'admin',
+        'PASSWORD': '123456789',
+        'HOST': 'mysqldb',
         'PORT': '3306',
     }
 }
